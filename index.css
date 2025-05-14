@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 1440px;
+    height: 3035px;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: 42px 90px 69px 2443px 1fr;
+}
+
+.element-1 {
+    background-color: #F5F5F5;
+}
+
+.element-2 {
+    background-color: #FFFFFF;
+}
+
+.element-3 {
+    background-color: #FFFFFF;
+}
+
+.element-4 {
+    background-color: #FFFFFF;
+}
+
+.element-5 {
+    background-color: #008ECC;
+}
