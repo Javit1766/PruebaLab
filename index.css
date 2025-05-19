@@ -14,9 +14,24 @@ body {
     grid-template-rows: 42px 90px 69px 2443px 1fr;
 }
 
+.Texto {
+    background-color: #f5f5f5;
+
+}
+
+.top {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -19px;
+    align-items: center;
+    padding: auto;
+    
+}
 .element-1 {
     background-color: #F5F5F5;
+    padding: 10px 10px;
 }
+
 
 .element-2 {
     background-color: #FFFFFF;
